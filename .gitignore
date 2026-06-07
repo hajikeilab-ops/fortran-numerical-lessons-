@@ -1,13 +1,13 @@
-#mac os
-.DS_store
+# macOS
+.DS_Store
 
 # Fortranのビルド成果物
-Lesson01/src/numerical_differentiaton
-Lesson01/src/numerical_differentiaton.exe
+Lesson01/src/numerical_differentiation
+Lesson01/src/numerical_differentiation.exe
 
 # 実行後に生成されるファイル
 Lesson01/src/output.csv
-Lesson01/src/numerical_differentiaton.png
+Lesson01/src/numerical_differentiation.png
 
 # Python
 __pycache__/
